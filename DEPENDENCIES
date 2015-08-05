@@ -1,0 +1,8 @@
+The python part of the project needs:
+(python2.7)
+numpy >= 1.9
+
+The LaTeX parts needs:
+(pdflatex or latex)
+pgfornament (http://altermundus.com/pages/tkz/ornament/index.html)
+tikz, xcolor, amsmath, varwidth (these packages are probably in any standard tex distribution)
