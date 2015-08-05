@@ -1,0 +1,33 @@
+#Name,Symbol,Formula,Value,Power,Unit,Order
+reduced Planck constant,\hbar,\hbar = h / (2 \pi),1.054571726,-34,J.s,1
+Planck constant,h,,6.62606957,-34,J.s,2
+electron mass,m_{\mathrm{e}},,9.10938291,-31,kg,3
+Atomic mass constant,m_{\mathrm{u}},m_{\mathrm{u}} = 1\mathrm{u},1.660538921,-27,kg,4
+proton mass,m_{\mathrm{p}},,1.672621777,-27,kg,5
+nuclear magneton,\mu_{\mathrm{N}},\mu_{\mathrm{N}} = e \hbar / 2 m_p,5.05078353,-27,J.T^{-1},6
+Bohr magneton,\mu_{\mathrm{B}},\mu_{\mathrm{B}} = e \hbar / 2 m_e,9.27400968,-24,J.T^{-1},7
+Boltzmann constant,k,k = k_{\mathrm{B}} = R / N_{\mathrm{A}},1.3806488,-23,J.K^{-1},8
+elementary charge,e,,1.602176565,-19,C,9
+Hartree energy,E_{\mathrm{h}},E_{\mathrm{h}} = 2 R_\infty h c,4.35974434,-18,J,10
+first radiation constant,c_1,c_1 = 2 \pi h c^2,3.74177153,-16,W.m^{2},11
+magnetic flux quantum,\phi_0,\phi_0 = h / 2 e,2.067833758,-15,Wb,12
+classical electron radius,r_{\mathrm{e}},r_{\mathrm{e}} = e^2 / 4\pi\varepsilon_0 m_e c^2,2.8179403267,-15,m,13
+electric constant (vacuum permittivity),\varepsilon_0,\varepsilon_0 = 1/\mu_0 c^2,8.854187817,-12,F.m^{-1},14
+Bohr radius,a_0,a_0 = \alpha / 4 \pi R_\infty,5.2917721092,-11,m,15
+Newtonian constant of gravitation,G,,6.67384,-11,m^{3}.kg^{-1}.s^{-2},16
+Stefan–Boltzmann constant,\sigma,\sigma = \pi^2 k^4 / 60 \hbar^3 c^2,5.670373,-8,W.m^{-2}.K^{-4},17
+magnetic constant (vacuum permeability),\mu_0,,1.256637061,-6,N.A^{-2},18
+conductance quantum,G_0,G_0 = 2 e^2 / h,7.7480917346,-5,S,19
+fine-structure constant,\alpha,\alpha = \mu_0 e^2 c / 2 h,7.2973525698,-3,,20
+second radiation constant,c_2,c_2 = h c / k,1.438777,-2,m.K,21
+gas constant,R,,8.3144621,0,J.K^{-1}.mol^{-1},22
+characteristic impedance of vacuum,Z_0,Z_0 = \mu_0 c,376.730313461,0,\Omega,23
+inverse conductance quantum,\frac{1}{G_0},G_0^{-1} = h / 2 e^2,12906.4037217,0,\Omega,24
+von Klitzing constant,R_{\mathrm{K}},R_{\mathrm{K}} = h / e^2,25812.8074434,0,\Omega,25
+Faraday constant,F,F = N_{\mathrm{A}} e ,96485.3365,0,C.mol^{-1},26
+Rydberg constant,R_\infty,R_\infty = \alpha^2 m_{\mathrm{e}} c / 2 h,10973731.568539,0,m^{-1},27
+speed of light in vacuum,c,,299792458,0,m.s^{-1},28
+Coulomb's constant,k_{\mathrm{e}},k_{\mathrm{e}} = 1 / 4\pi\varepsilon_0,8.987551787,9,N.m^2.C^{-2},29
+Josephson constant,K_{\mathrm{J}},K_{\mathrm{J}} = 2 e / h,4.8359787,14,Hz.V^{-1},30
+Avogadro's number,N_{\mathrm{A}},,6.02214129,23,mol^{-1},31
+Loschmidt constant,n_0,n_0 = N_{\mathrm{A}} / V_{\mathrm{m}},2.6867805,25,m^{-3},32
