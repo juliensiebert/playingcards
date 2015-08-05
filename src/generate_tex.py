@@ -4,7 +4,8 @@ import sys, getopt          # used to manage command line arguments
 import numpy as np
 
 def parse(filename,outdir,texcode):
-    """
+    """ 
+    Parse the csv file 'filename', create the tex files (from texcode + the just parsed data) and store them into directory 'outdir'
     """
     d = np.genfromtxt(filename, delimiter=',', dtype=None,  names=['Name','Symbol','Formula','Value','Power','Unit','Order'])
     for name,symbol,formula,value,power,unit,order in d:
