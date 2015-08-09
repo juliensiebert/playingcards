@@ -2,8 +2,8 @@ This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdf
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**./tex/Card_23_characteristic_impedance_of_vacuum.tex
-(./tex/Card_23_characteristic_impedance_of_vacuum.tex
+**./tex/Card_?_dark_matter.tex
+(./tex/Card_?_dark_matter.tex
 LaTeX2e <2011/06/27>
 Babel <3.9h> and hyphenation patterns for 4 languages loaded.
 (/usr/share/texlive/texmf-dist/tex/latex/standalone/standalone.cls
@@ -477,8 +477,8 @@ rounds.code.tex
 File: tikzlibrarybackgrounds.code.tex 2010/02/08 v2.10 (rcs-revision 1.2)
 \pgf@layerbox@background=\box59
 \pgf@layerboxsaved@background=\box60
-) (./tex/Card_23_characteristic_impedance_of_vacuum.aux)
-\openout1 = `Card_23_characteristic_impedance_of_vacuum.aux'.
+) (./tex/Card_?_dark_matter.aux)
+\openout1 = `Card_?_dark_matter.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 39.
 LaTeX Font Info:    ... okay on input line 39.
@@ -560,28 +560,23 @@ Missing character: There is no ; in font nullfont!
 (/usr/share/texmf/tex/generic/vectorian/vectorian88.pgf)
 (/usr/share/texmf/tex/generic/vectorian/vectorian88.pgf) [1
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
-(./tex/Card_23_characteristic_impedance_of_vacuum.aux) ) 
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] (./tex/Card_?_dark_matter.
+aux) ) 
 Here is how much of TeX's memory you used:
  12933 strings out of 494999
- 259702 string characters out of 6180229
- 334953 words of memory out of 5000000
+ 259486 string characters out of 6180229
+ 334916 words of memory out of 5000000
  15866 multiletter control sequences out of 15000+600000
  10918 words of font info for 40 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 56i,9n,68p,457b,893s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/share/texlive/tex
-mf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/share/texlive/texmf-dis
-t/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/share/texlive/texmf-dist/fonts
-/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/
-public/amsfonts/cm/cmr17.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/
-amsfonts/cm/cmr6.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts
-/cm/cmr8.pfb>
-Output written on ./tex/Card_23_characteristic_impedance_of_vacuum.pdf (1 page,
- 51507 bytes).
+ 56i,9n,68p,433b,893s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb><
+/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/sh
+are/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb>
+Output written on ./tex/Card_?_dark_matter.pdf (1 page, 26230 bytes).
 PDF statistics:
- 35 PDF objects out of 1000 (max. 8388607)
- 25 compressed objects within 1 object stream
+ 23 PDF objects out of 1000 (max. 8388607)
+ 16 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  13 words of extra memory for PDF output out of 10000 (max. 10000000)
 
