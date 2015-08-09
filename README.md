@@ -1,5 +1,6 @@
 # playingcards
-A playing cards deck with physical constants instead of numbers (can be use for any game that requires numbers, like that guy for example https://fr.wikipedia.org/wiki/Ascenseur_%28jeu_de_cartes%29)
+A playing cards deck (currently 33 cards) with physical constants instead of numbers (from 1 to 32 + one joker°.
+Can be use for any game that requires numbers, like that guy for example https://boardgamegeek.com/boardgame/75668/whist-22
 ## what's in ./pdf/?
 The pdf files of the cards
 ## what's in ./tex/?
