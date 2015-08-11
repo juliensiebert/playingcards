@@ -3,6 +3,8 @@ A playing cards deck (currently 33 cards) with physical constants instead of num
 Can be use for any game that requires numbers, like that guy for example https://boardgamegeek.com/boardgame/75668/whist-22
 ## what's in ./pdf/?
 The pdf files of the cards
+## what's in ./png/?
+The png files of the cards
 ## what's in ./tex/?
 The TeX file of the cards
 ## what's in ./dat/?
