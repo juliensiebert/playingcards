@@ -1,5 +1,5 @@
 # playingcards
-A playing cards deck (currently 33 cards) with physical constants instead of numbers (from 1 to 32 + one joker°.
+A playing cards deck (currently 33 cards) with physical constants instead of numbers (from 1 to 32 + one joker (the number 0)).
 Can be use for any game that requires numbers, like that guy for example https://boardgamegeek.com/boardgame/75668/whist-22
 ## what's in ./pdf/?
 The pdf files of the cards
