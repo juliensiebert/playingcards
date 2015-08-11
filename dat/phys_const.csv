@@ -15,7 +15,7 @@ classical electron radius,r_{\mathrm{e}},r_{\mathrm{e}} = e^2 / 4\pi\varepsilon_
 electric constant (vacuum permittivity),\varepsilon_0,\varepsilon_0 = 1/\mu_0 c^2,8.854187817,-12,F.m^{-1},14
 Bohr radius,a_0,a_0 = \alpha / 4 \pi R_\infty,5.2917721092,-11,m,15
 Newtonian constant of gravitation,G,,6.67384,-11,m^{3}.kg^{-1}.s^{-2},16
-Stefan–Boltzmann constant,\sigma,\sigma = \pi^2 k^4 / 60 \hbar^3 c^2,5.670373,-8,W.m^{-2}.K^{-4},17
+Stefan-Boltzmann constant,\sigma,\sigma = \pi^2 k^4 / 60 \hbar^3 c^2,5.670373,-8,W.m^{-2}.K^{-4},17
 magnetic constant (vacuum permeability),\mu_0,,1.256637061,-6,N.A^{-2},18
 conductance quantum,G_0,G_0 = 2 e^2 / h,7.7480917346,-5,S,19
 fine-structure constant,\alpha,\alpha = \mu_0 e^2 c / 2 h,7.2973525698,-3,,20
@@ -31,4 +31,4 @@ Coulomb's constant,k_{\mathrm{e}},k_{\mathrm{e}} = 1 / 4\pi\varepsilon_0,8.98755
 Josephson constant,K_{\mathrm{J}},K_{\mathrm{J}} = 2 e / h,4.8359787,14,Hz.V^{-1},30
 Avogadro's number,N_{\mathrm{A}},,6.02214129,23,mol^{-1},31
 Loschmidt constant,n_0,n_0 = N_{\mathrm{A}} / V_{\mathrm{m}},2.6867805,25,m^{-3},32
-dark matter,?,,\mathrm{dark~matter},0,,?
+dark matter,?,,\mathrm{dark~matter},0,,0
